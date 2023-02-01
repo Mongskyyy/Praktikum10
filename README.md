@@ -1,6 +1,6 @@
 # Praktikum10
 
-## Tugas pertemuan ke 4 Bahasa Pemrograman
+## Tugas pertemuan ke 12 Bahasa Pemrograman
 
 ## Nama : Ramadhan Ardi Iman Prakoso
 
